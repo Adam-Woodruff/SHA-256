@@ -1,3 +1,5 @@
+#from https://github.com/Adam-Woodruff/SHA-256/edit/main/SHA-256.py
+
 import time
 
 constants = (
