@@ -9,6 +9,3 @@ https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf
   
 For a better understanding on the SHA functions   
 https://www.youtube.com/watch?v=f9EbD6iY9zI	  
-  
-when stuck for a better way  
-https://github.com/keanemind/python-sha-256/blob/master/sha256.py	  
